@@ -81,7 +81,7 @@ const IconDenomInner: React.FC<{ denom: Denom | string }> = ({
             className="icon-denom"
             src={
               new URL(
-                `../assets/ghost/${denom.underlying[0].symbol.toLowerCase()}.png`,
+                `@/src/assets/ghost/${denom.underlying[0].symbol.toLowerCase()}.png`,
                 import.meta.url
               ).href
             }

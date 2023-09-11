@@ -42,7 +42,7 @@ import {
 } from "../../wallets";
 import { CW3Wallet } from "../../wallets/cw3";
 import { useNetwork } from "../network";
-import Logo from "./../../assets/sonar.png";
+import Logo from "@/src/assets/sonar.png";
 
 export enum Adapter {
   Sonar = "sonar",
