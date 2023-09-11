@@ -1,3 +1,3 @@
 export declare function IconAngleUp({ className, }: {
     className?: string;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

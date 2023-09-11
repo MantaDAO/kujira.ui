@@ -1,1 +1,1 @@
-export declare function IconKuji(): any;
+export declare function IconKuji(): import("react/jsx-runtime").JSX.Element;

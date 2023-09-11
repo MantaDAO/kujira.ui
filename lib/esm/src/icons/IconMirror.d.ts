@@ -1,1 +1,1 @@
-export declare function IconMirror(): any;
+export declare function IconMirror(): import("react/jsx-runtime").JSX.Element;

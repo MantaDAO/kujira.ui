@@ -16,5 +16,5 @@ export type SelectProps<T> = {
     suffix?: (t: OptionType<T>) => ReactElement;
     placeholder?: string;
 };
-export declare function Select<T>({ options, selected, onChange, dark, className, allowCustomInput, onCustomChange, disabled, suffix, placeholder, }: SelectProps<T>): any;
+export declare function Select<T>({ options, selected, onChange, dark, className, allowCustomInput, onCustomChange, disabled, suffix, placeholder, }: SelectProps<T>): import("react/jsx-runtime").JSX.Element;
 export {};

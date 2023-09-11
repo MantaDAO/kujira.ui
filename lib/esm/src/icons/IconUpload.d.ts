@@ -1,1 +1,1 @@
-export declare function IconUpload(): any;
+export declare function IconUpload(): import("react/jsx-runtime").JSX.Element;

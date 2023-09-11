@@ -1,1 +1,1 @@
-export declare function IconLoop(): any;
+export declare function IconLoop(): import("react/jsx-runtime").JSX.Element;

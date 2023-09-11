@@ -1,3 +1,3 @@
 export declare const IconXDefi: ({ style }: {
     style?: object | undefined;
-}) => any;
+}) => import("react/jsx-runtime").JSX.Element;

@@ -1,1 +1,1 @@
-export declare function IconAtom(): any;
+export declare function IconAtom(): import("react/jsx-runtime").JSX.Element;

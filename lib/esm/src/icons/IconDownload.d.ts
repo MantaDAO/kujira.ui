@@ -1,1 +1,1 @@
-export declare function IconDownload(): any;
+export declare function IconDownload(): import("react/jsx-runtime").JSX.Element;

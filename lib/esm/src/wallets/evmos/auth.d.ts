@@ -1,5 +1,6 @@
 import { BaseAccount } from "cosmjs-types/cosmos/auth/v1beta1/auth";
-import { Reader } from "protobufjs/minimal";
+import { DeepPartial } from "cosmjs-types/helpers";
+import { Reader, Writer } from "protobufjs/minimal";
 export declare const protobufPackage = "cosmos.auth.v1beta1";
 /** EthAccount defines an account for modules that holds coins on a pool. */
 export interface EthAccount {

@@ -1,3 +1,3 @@
 export default function ({ onClose }: {
     onClose: () => void;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

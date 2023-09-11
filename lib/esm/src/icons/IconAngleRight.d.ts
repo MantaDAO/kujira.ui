@@ -1,3 +1,3 @@
 export declare function IconAngleRight({ className, }: {
     className?: string;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

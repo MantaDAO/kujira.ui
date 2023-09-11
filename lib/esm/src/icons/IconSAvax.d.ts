@@ -1,1 +1,1 @@
-export declare function IconSAvax(): any;
+export declare function IconSAvax(): import("react/jsx-runtime").JSX.Element;

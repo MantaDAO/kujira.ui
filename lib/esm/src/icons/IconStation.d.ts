@@ -1,3 +1,3 @@
 export declare const IconStation: ({ style }: {
     style?: object | undefined;
-}) => any;
+}) => import("react/jsx-runtime").JSX.Element;

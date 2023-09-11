@@ -1,1 +1,1 @@
-export declare function IconSolana(): any;
+export declare function IconSolana(): import("react/jsx-runtime").JSX.Element;

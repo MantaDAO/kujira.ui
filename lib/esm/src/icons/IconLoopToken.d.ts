@@ -1,1 +1,1 @@
-export declare function IconLoopToken(): any;
+export declare function IconLoopToken(): import("react/jsx-runtime").JSX.Element;

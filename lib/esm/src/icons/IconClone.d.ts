@@ -1,1 +1,1 @@
-export declare function IconClone(): any;
+export declare function IconClone(): import("react/jsx-runtime").JSX.Element;

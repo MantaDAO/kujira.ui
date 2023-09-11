@@ -34,4 +34,4 @@ export type IWallet = {
     adapter: null | Adapter;
 };
 export declare const WalletContext: FC<PropsWithChildren<{}>>;
-export declare function useWallet(): any;
+export declare function useWallet(): IWallet;

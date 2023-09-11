@@ -1,3 +1,3 @@
 export declare function IconClose({ onClick }: {
     onClick?: () => void;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

@@ -1,1 +1,1 @@
-export declare function IconPlus(): any;
+export declare function IconPlus(): import("react/jsx-runtime").JSX.Element;

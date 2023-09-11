@@ -1,1 +1,1 @@
-export declare const IconFarm: () => any;
+export declare const IconFarm: () => import("react/jsx-runtime").JSX.Element;

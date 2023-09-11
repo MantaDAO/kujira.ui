@@ -1,1 +1,1 @@
-export declare const IconAstroport: () => any;
+export declare const IconAstroport: () => import("react/jsx-runtime").JSX.Element;

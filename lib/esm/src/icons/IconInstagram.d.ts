@@ -1,1 +1,1 @@
-export declare function IconInstagram(): any;
+export declare function IconInstagram(): import("react/jsx-runtime").JSX.Element;

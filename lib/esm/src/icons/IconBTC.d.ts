@@ -1,1 +1,1 @@
-export declare function IconBTC(): any;
+export declare function IconBTC(): import("react/jsx-runtime").JSX.Element;

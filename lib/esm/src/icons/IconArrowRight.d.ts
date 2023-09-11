@@ -1,3 +1,3 @@
 export declare function IconArrowRight({ className, }: {
     className?: string;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

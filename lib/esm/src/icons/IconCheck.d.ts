@@ -1,3 +1,3 @@
 export declare function IconCheck({ ...props }: {
     className?: string;
-}): any;
+}): import("react/jsx-runtime").JSX.Element;

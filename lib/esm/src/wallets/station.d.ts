@@ -1,5 +1,6 @@
 import { AccountData, EncodeObject } from "@cosmjs/proto-signing";
 import { DeliverTxResponse } from "@cosmjs/stargate";
+import { ChainInfo } from "@keplr-wallet/types";
 import { WalletController } from "@terra-money/wallet-controller";
 export declare class Station {
     private controller;

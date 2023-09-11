@@ -1,1 +1,1 @@
-export declare function IconSortDesc(): any;
+export declare function IconSortDesc(): import("react/jsx-runtime").JSX.Element;

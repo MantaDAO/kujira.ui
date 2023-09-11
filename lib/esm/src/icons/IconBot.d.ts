@@ -1,1 +1,1 @@
-export declare function IconBot(): any;
+export declare function IconBot(): import("react/jsx-runtime").JSX.Element;

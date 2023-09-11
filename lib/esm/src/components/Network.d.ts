@@ -1,1 +1,1 @@
-export declare const Network: () => any;
+export declare const Network: () => import("react/jsx-runtime").JSX.Element;
