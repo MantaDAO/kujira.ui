@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "type": "module",
   "license": "MIT",
-  "main": "lib/esm/src/index.ts",
+  "main": "./lib/cjs/src/index.js",
+  "module": "./lib/esm/src/index.js",
   "files": [
     "lib",
     "src"
