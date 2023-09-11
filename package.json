@@ -11,7 +11,8 @@
     "src"
   ],
   "scripts": {
-    "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json"
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+    "postbuild": "xcopy /I src\\assets lib\\esm\\src\\assets && xcopy /I src\\assets lib\\cjs\\src\\assets"
   },
   "dependencies": {
     "@cosmjs/proto-signing": "^0.30.1",
