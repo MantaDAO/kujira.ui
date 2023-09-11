@@ -5,9 +5,9 @@ import { Denom, LOCALNET, TESTNET } from "kujira.js";
 import { useEffect, useState } from "react";
 import { toast } from "react-hot-toast";
 import ReactTooltip from "react-tooltip";
-import IconMetamask from "@/src/assets/metamask.png";
-import IconMetamaskDisabled from "@/src/assets/metamask_disabled.png";
-import IconMetamaskConnected from "@/src/assets/metamask_connected.png";
+import IconMetamask from "../assets/metamask.png";
+import IconMetamaskDisabled from "../assets/metamask_disabled.png";
+import IconMetamaskConnected from "../assets/metamask_connected.png";
 import { useLocalStorage } from "../hooks";
 import * as i18n from "../i18n";
 import {
