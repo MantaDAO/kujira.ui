@@ -11,7 +11,8 @@
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "rootDirs": ["src"]
   },
   "include": ["src", "i18n"],
   "exclude": ["node_modules"]
